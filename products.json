@@ -1,0 +1,22 @@
+{
+    "productos": [
+      {
+        "id": "01",
+        "nombre": "Pulpo Reversible",
+        "imagen": "assets/img/p_octopus.jpg",
+        "descripcion": "Adorable juguete de felpa con la peculiaridad de tener dos caras diferentes, una feliz y amigable en un lado y otra triste o tímida en el reverso.",
+        "detalle": "uwu",
+        "precio": "8000",
+        "valoracion": "💗💗💗💗💗"
+      },
+      {
+        "id": "02",
+        "nombre": "Carpincho",
+        "imagen": "assets/img/p_capibara.jpg",
+        "descripcion": "Confeccionado con materiales suaves y mullidos que invitan a abrazarlo. Perfecto para niños y amantes de la naturaleza por igual",
+        "detalle": "uwu",
+        "precio": "9000",
+        "valoracion": "💗💗💗"
+      }
+    ]
+  }
