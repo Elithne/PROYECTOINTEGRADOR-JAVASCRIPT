@@ -1,22 +1,149 @@
 {
-    "productos": [
-      {
-        "id": "01",
-        "nombre": "Pulpo Reversible",
-        "imagen": "assets/img/p_octopus.jpg",
-        "descripcion": "Adorable juguete de felpa con la peculiaridad de tener dos caras diferentes, una feliz y amigable en un lado y otra triste o tímida en el reverso.",
-        "detalle": "uwu",
-        "precio": "8000",
-        "valoracion": "💗💗💗💗💗"
-      },
-      {
-        "id": "02",
-        "nombre": "Carpincho",
-        "imagen": "assets/img/p_capibara.jpg",
-        "descripcion": "Confeccionado con materiales suaves y mullidos que invitan a abrazarlo. Perfecto para niños y amantes de la naturaleza por igual",
-        "detalle": "uwu",
-        "precio": "9000",
-        "valoracion": "💗💗💗"
-      }
-    ]
-  }
+  "productos": [
+    {
+      "id": "01",
+      "nombre": "Pulpo Reversible",
+      "imagen": "assets/img/p_octopus.jpg",
+      "descripcion": "Adorable juguete de felpa con la peculiaridad de tener dos caras diferentes, una feliz y amigable en un lado y otra triste o tímida en el reverso.",
+      "detalle": "El Pulpo Reversible es el compañero perfecto para los momentos de juego y abrazos. Hecho con materiales de alta calidad, su felpa suave y esponjosa lo hace ideal para niños y adultos por igual. Con su diseño ingenioso de doble cara, puedes cambiar entre las dos expresiones en un abrir y cerrar de ojos, lo que lo convierte en una fuente inagotable de diversión y entretenimiento. Además, su tamaño es ideal para llevarlo contigo a todas partes y compartir momentos especiales. Este pulpo de peluche se ha convertido en un favorito de las redes sociales y ha ganado el corazón de personas de todo el mundo. ¡Añade un toque de ternura y alegría a tu vida con este encantador pulpo reversible!",
+      "precio": "8000",
+      "valoracion": "💗💗💗💗💗"
+    },
+    {
+      "id": "02",
+      "nombre": "Carpincho",
+      "imagen": "assets/img/p_capibara.jpg",
+      "descripcion": "Confeccionado con materiales suaves y mullidos que invitan a abrazarlo. Perfecto para niños y amantes de la naturaleza por igual",
+      "detalle": "El Carpincho de Peluche es una representación adorable y realista de este curioso roedor sudamericano. Con su pelaje suave y mullido, este peluche es una delicia para abrazar y acurrucarse. Su diseño cuidadoso captura la apariencia amigable y carismática del carpincho, con grandes ojos y una sonrisa encantadora que lo hace irresistible para niños y adultos por igual. Ya sea como regalo para un amante de la naturaleza o como un compañero de juegos para los más pequeños, este carpincho de peluche se convertirá en un amigo inseparable en todas tus aventuras imaginarias. Su alta calidad y atención al detalle lo hacen digno de exhibición en cualquier colección de peluches.",
+      "precio": "9000",
+      "valoracion": "💗💗💗"
+    },
+    {
+      "id": "03",
+      "nombre": "Oso Polar Abrazable",
+      "imagen": "assets/img/p_polar_bear.jpg",
+      "descripcion": "Un adorable oso polar de peluche que es perfecto para abrazar y mantener el calor en los días fríos.",
+      "detalle": "Este Oso Polar Abrazable es el compañero perfecto para los días fríos de invierno. Con su pelaje blanco y esponjoso, te brinda la calidez y comodidad que necesitas en las noches frías. Su dulce expresión y su tamaño generoso lo convierten en un regalo perfecto para niños y adultos. Hecho con materiales de alta calidad, este peluche es suave al tacto y resistente, lo que garantiza que te acompañará durante muchos años. Ya sea como un amigo reconfortante en la cama o como una adición encantadora a tu decoración invernal, este Oso Polar Abrazable es simplemente irresistible.",
+      "precio": "7500",
+      "valoracion": "💗💗💗💗"
+    },
+    {
+      "id": "04",
+      "nombre": "Gatito de Peluche",
+      "imagen": "assets/img/p_kitten.jpg",
+      "descripcion": "Un tierno gatito de peluche con un pelaje suave y una mirada traviesa que alegrará tu día.",
+      "detalle": "Este Gatito de Peluche es la personificación de la ternura felina. Con su pelaje suave y esponjoso, este juguete es una delicia para acariciar y abrazar. Su expresión juguetona y sus ojos curiosos hacen que sea imposible resistirse a su encanto. Ideal como regalo para los amantes de los gatos o como compañero de juegos para los más pequeños, este gatito de peluche se convertirá en un miembro querido de tu familia. Su tamaño compacto lo hace perfecto para llevarlo contigo a todas partes, ¡así que no te sorprendas si se convierte en tu fiel compañero de viaje!",
+      "precio": "6500",
+      "valoracion": "💗💗💗💗"
+    },
+    {
+      "id": "05",
+      "nombre": "Panda Gigante",
+      "imagen": "assets/img/p_panda.jpg",
+      "descripcion": "Un panda gigante de peluche con un pelaje suave y una expresión amigable que roba corazones.",
+      "detalle": "El Panda Gigante de Peluche es un regalo que hará las delicias de cualquier amante de estos adorables osos. Con su pelaje suave y su aspecto realista, este peluche es como tener tu propio panda en casa. Su expresión amigable y su tamaño generoso lo convierten en el compañero perfecto para abrazar y compartir momentos especiales. Hecho con materiales de alta calidad, es suave al tacto y duradero, lo que garantiza horas de diversión y cariño. Ya sea como decoración en la habitación de un niño o como un regalo especial, este Panda Gigante de Peluche será una adición encantadora a tu vida.",
+      "precio": "9500",
+      "valoracion": "💗💗💗💗💗"
+    },
+    {
+      "id": "06",
+      "nombre": "Elefante de Peluche",
+      "imagen": "assets/img/p_elephant.jpg",
+      "descripcion": "Un elefante de peluche con una trompa larga y curiosa que te cautivará con su ternura.",
+      "detalle": "Este Elefante de Peluche es una representación encantadora de uno de los animales más majestuosos de la naturaleza. Con su trompa larga y curiosa, este peluche roba corazones a niños y adultos por igual. Su pelaje suave y esponjoso lo convierte en un compañero de abrazos perfecto para todas las edades. Hecho con atención al detalle y materiales de alta calidad, este elefante de peluche es duradero y resistente. Ya sea como un regalo para un amante de la vida salvaje o como una adición encantadora a tu hogar, este Elefante de Peluche te recordará la belleza y la grandeza de la naturaleza.",
+      "precio": "8500",
+      "valoracion": "💗💗💗💗"
+    },
+    {
+      "id": "07",
+      "nombre": "Delfín Sonriente",
+      "imagen": "assets/img/p_dolphin.jpg",
+      "descripcion": "Un delfín de peluche con una sonrisa radiante que te transportará al mundo marino.",
+      "detalle": "El Delfín Sonriente es un peluche que captura la alegría y la belleza de los delfines en un diseño adorable. Con su sonrisa radiante y su pelaje suave al tacto, te sentirás como si estuvieras en el océano cada vez que lo abraces. Su diseño realista y atención al detalle hacen que este peluche sea un regalo perfecto para los amantes del mar y la vida marina. Su tamaño compacto lo convierte en el compañero ideal para llevarlo contigo en tus aventuras, ya sea en la playa o en la piscina. Sumérgete en la diversión con este Delfín Sonriente y deja que te lleve a un mundo de sonrisas.",
+      "precio": "7500",
+      "valoracion": "💗💗💗💗💗"
+    },
+    {
+      "id": "08",
+      "nombre": "León Majestuoso",
+      "imagen": "assets/img/p_lion.jpg",
+      "descripcion": "Un león de peluche majestuoso con una melena exuberante que lo convierte en el rey de la selva de tu corazón.",
+      "detalle": "Este León Majestuoso es una representación asombrosa de la majestuosidad de los leones. Con su melena exuberante y su expresión noble, este peluche roba el corazón de todos. Su pelaje suave al tacto y su tamaño impresionante lo hacen perfecto para abrazar y admirar. Hecho con materiales de alta calidad, este león de peluche es resistente y duradero. Ya sea como regalo para un amante de la vida salvaje o como una pieza central en la decoración de tu hogar, este León Majestuoso será el rey indiscutible de tu colección de peluches.",
+      "precio": "10500",
+      "valoracion": "💗💗💗💗💗"
+    },
+    {
+      "id": "09",
+      "nombre": "Perrito Salchicha",
+      "imagen": "assets/img/p_dachshund.jpg",
+      "descripcion": "Un perrito salchicha de peluche con orejas largas y ojos curiosos que te harán sonreír.",
+      "detalle": "Este Perrito Salchicha de Peluche es una representación encantadora de la raza de perros dachshund. Con sus orejas largas y su mirada curiosa, este peluche es irresistible. Su pelaje suave y esponjoso lo convierte en el compañero perfecto para abrazar y jugar. Hecho con materiales de alta calidad, es suave al tacto y resistente. Ya sea como regalo para un amante de los perros o como un amigo leal para los más pequeños, este Perrito Salchicha de Peluche se convertirá en un miembro querido de tu familia.",
+      "precio": "7000",
+      "valoracion": "💗💗💗💗"
+    },
+    {
+      "id": "10",
+      "nombre": "Jirafa Elegante",
+      "imagen": "assets/img/p_giraffe.jpg",
+      "descripcion": "Una jirafa de peluche elegante con un cuello largo y un porte majestuoso que impresiona a todos.",
+      "detalle": "La Jirafa Elegante es un peluche que captura la elegancia y la majestuosidad de las jirafas en un diseño adorable. Con su cuello largo y su expresión noble, este peluche impresiona a todos. Su pelaje suave al tacto y su tamaño impresionante lo hacen perfecto para abrazar y admirar. Hecho con materiales de alta calidad, esta jirafa de peluche es resistente y duradera. Ya sea como regalo para un amante de la vida salvaje o como una pieza central en la decoración de tu hogar, esta Jirafa Elegante será una adición destacada a tu colección de peluches.",
+      "precio": "9800",
+      "valoracion": "💗💗💗💗💗"
+    },
+    {
+      "id": "11",
+      "nombre": "Koala Cariñoso",
+      "imagen": "assets/img/p_koala.jpg",
+      "descripcion": "Un koala de peluche con una mirada tierna que te hará sentir como si estuvieras en las copas de los árboles.",
+      "detalle": "El Koala Cariñoso es un peluche que captura la ternura y la tranquilidad de los koalas en un diseño encantador. Con su mirada tierna y su pelaje suave al tacto, te sentirás como si estuvieras en el bosque cada vez que lo abraces. Su diseño realista y atención al detalle hacen que este peluche sea un regalo perfecto para los amantes de la naturaleza. Su tamaño compacto lo convierte en el compañero ideal para llevarlo contigo en tus aventuras al aire libre. Abraza la serenidad con este Koala Cariñoso y deja que te transporte a un mundo de relajación.",
+      "precio": "8200",
+      "valoracion": "💗💗💗💗💗"
+    },
+    {
+      "id": "12",
+      "nombre": "Pájaro Cantor",
+      "imagen": "assets/img/p_bird.jpg",
+      "descripcion": "Un pájaro de peluche con colores vibrantes y una melodiosa canción que alegrará tu día.",
+      "detalle": "Este Pájaro Cantor es una representación colorida y alegre de la belleza de las aves. Con sus colores vibrantes y su melodiosa canción, este peluche alegra cualquier espacio. Su pelaje suave al tacto y su tamaño compacto lo convierten en el compañero perfecto para abrazar y llevar contigo. Hecho con materiales de alta calidad, es suave al tacto y resistente. Ya sea como regalo para un amante de las aves o como una adición encantadora a tu hogar, este Pájaro Cantor te llenará de alegría y música.",
+      "precio": "7200",
+      "valoracion": "💗💗💗💗"
+    },
+    {
+      "id": "13",
+      "nombre": "Tigre Valiente",
+      "imagen": "assets/img/p_tiger.jpg",
+      "descripcion": "Un tigre de peluche valiente con rayas audaces y una expresión imponente que te cautivará.",
+      "detalle": "Este Tigre Valiente es una representación impresionante de la majestuosidad de los tigres. Con sus rayas audaces y su expresión imponente, este peluche cautiva a todos. Su pelaje suave al tacto y su tamaño impresionante lo hacen perfecto para abrazar y admirar. Hecho con materiales de alta calidad, este tigre de peluche es resistente y duradero. Ya sea como regalo para un amante de la vida salvaje o como una pieza central en la decoración de tu hogar, este Tigre Valiente será el rey indiscutible de tu colección de peluches.",
+      "precio": "9900",
+      "valoracion": "💗💗💗💗💗"
+    },
+    {
+      "id": "14",
+      "nombre": "Conejo Travieso",
+      "imagen": "assets/img/p_rabbit.jpg",
+      "descripcion": "Un conejo de peluche travieso con orejas largas y una expresión juguetona que te hará sonreír.",
+      "detalle": "Este Conejo Travieso de Peluche es una representación encantadora de la ternura de los conejos. Con sus orejas largas y su mirada juguetona, este peluche es irresistible. Su pelaje suave y esponjoso lo convierte en el compañero perfecto para abrazar y jugar. Hecho con materiales de alta calidad, es suave al tacto y resistente. Ya sea como regalo para un amante de los animales o como un amigo leal para los más pequeños, este Conejo Travieso de Peluche se convertirá en un miembro querido de tu familia.",
+      "precio": "7100",
+      "valoracion": "💗💗💗💗"
+    },
+    {
+      "id": "15",
+      "nombre": "Canguro Saltarín",
+      "imagen": "assets/img/p_kangaroo.jpg",
+      "descripcion": "Un canguro de peluche saltarín con una bolsa frontal que es perfecta para llevar consigo pequeños tesoros.",
+      "detalle": "Este Canguro Saltarín es una representación alegre de uno de los animales más emblemáticos de Australia. Con su bolsa frontal y su expresión juguetona, este peluche es una delicia para abrazar y jugar. Su pelaje suave al tacto y su tamaño compacto lo convierten en el compañero perfecto para llevar contigo. Hecho con materiales de alta calidad, es suave al tacto y resistente. Ya sea como regalo para un amante de la vida salvaje o como una adición encantadora a tu hogar, este Canguro Saltarín te llevará en un viaje de diversión y aventura.",
+      "precio": "7600",
+      "valoracion": "💗💗💗💗"
+    },
+    {
+      "id": "16",
+      "nombre": "Pingüino Amistoso",
+      "imagen": "assets/img/p_penguin.jpg",
+      "descripcion": "Un pingüino de peluche amistoso con un aspecto adorable que te hará sonreír.",
+      "detalle": "Este Pingüino Amistoso es un peluche que captura la ternura y la simpatía de los pingüinos en un diseño encantador. Con su aspecto adorable y su pelaje suave al tacto, te sentirás como si estuvieras en la Antártida cada vez que lo abraces. Su diseño realista y atención al detalle hacen que este peluche sea un regalo perfecto para los amantes de la vida salvaje y los entusiastas de los pingüinos. Su tamaño compacto lo convierte en el compañero ideal para llevarlo contigo en tus aventuras. ¡Dale la bienvenida a este Pingüino Amistoso a tu vida y deja que te haga sonreír en cualquier momento del día!",
+      "precio": "7800",
+      "valoracion": "💗💗💗💗"
+    }
+    
+  ]
+}

@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       cardContainer.innerHTML = `
       <div class="row">
           <div class="col-md-4">
-              <img src="${productDetails.imagen}" class="card-img m-md-4 py-2" alt="${productDetails.nombre}">
+              <img src="${productDetails.imagen}" class=" card-img m-md-4 py-2" alt="${productDetails.nombre}">
           </div>
           <div class="col-md-8">
               <div class="card-body text-center">
